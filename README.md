@@ -7,12 +7,12 @@
 **Duration:** 20 hours
 
 ## Course Structure
-### 📝 Assignments
+### Assignments
 - **Assignment 1:** Data Extraction
 - **Assignment 2:** File Handling and Path Operations  
 - **Assignment 3:** Problem Solving
 
-### 🎯 Major Project
+### Major Project
 - **Project 1:** Student Data Analysis
 
 ## Technologies Used
@@ -23,15 +23,15 @@
 
 
 ## Repository Structure
-Assignment-1-Data-Extraction/
-Assignment-2-File-Handling-Path-Operations/
-Assignment-3-Problem-Solving/
-Project-1-Student-Data-Analysis/
+```Assignment-1-Data-Extraction/```
+```Assignment-2-File-Handling-Path-Operations/```
+```Assignment-3-Problem-Solving/```
+```Project-1-Student-Data-Analysis/```
 
 
 ## Author
 **Ameer Tamimi**  
-LinkedIn: [your-linkedin-profile-url]  
+LinkedIn: [[AmeerTamimi](https://www.linkedin.com/in/ameer-tamimi-87933431a/)]  
 GitHub: [@AmeerTamimi](https://github.com/AmeerTamimi)
 
 ---
