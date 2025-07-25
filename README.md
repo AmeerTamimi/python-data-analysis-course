@@ -9,7 +9,7 @@
 ## Course Structure
 ### Assignments
 - **Assignment 1:** Data Extraction
-- **Assignment 2:** File Handling and Path Operations  
+- **Assignment 2:** Path Operations  
 - **Assignment 3:** Problem Solving
 
 ### Major Project
