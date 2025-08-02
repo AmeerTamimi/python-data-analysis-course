@@ -1,0 +1,36 @@
+{
+    "Maximum Average": {
+        "student_name": "Mahmoud",
+        "value": 98
+    },
+    "Maximum Mark": {
+        "student_name": "Mahmoud",
+        "value": 100
+    },
+    "Minimum Average": {
+        "student_name": "Mahdi",
+        "value": 59
+    },
+    "Minimum Mark": {
+        "student_name": "Youssef",
+        "value": 50
+    },
+    "Standard Deviation": {
+        "value": 14.83
+    },
+    "Q1": {
+        "value": 64
+    },
+    "Q2 (Median)": {
+        "value": 75
+    },
+    "Q3": {
+        "value": 89
+    },
+    "IQR": {
+        "value": 25
+    },
+    "Most Frequent Mark": {
+        "value": 60
+    }
+}
